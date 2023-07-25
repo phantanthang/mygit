@@ -1,4 +1,4 @@
 export default {
-  redis_url: 5673,
+  redis_uri: 5673,
   mongo_uri: "mongo.com",
 };
