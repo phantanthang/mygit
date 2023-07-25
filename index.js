@@ -1,6 +1,6 @@
 const express = require("express");
 
-PORT = 3001;
+PORT = 3000;
 app = express();
 
 app.listen(PORT, () =>
